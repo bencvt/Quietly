@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: Quietly
+## Author: bencvt
+## Version: 1.0
+## Notes: Add shorthand command /q to suppress error messages and sounds in macros.
+## DefaultState: Enabled
+
+Quietly.lua
