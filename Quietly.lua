@@ -24,13 +24,14 @@ local function printHelp()
   else
     print(PREFIX, "Use /q in macros to temporarily suppress (or unsuppress, if used twice) error messages. For example:")
   end
-  print("|cff999999#showtooltip "..GetSpellInfo(113858).."|r") -- Dark Soul: Instability
+  print("|cff999999#showtooltip "..GetSpellInfo(58381).."|r") -- Mind Flay
   print("|cff999999/q|r")
-  print("|cff999999/use 13|r")
   print("|cff999999/use "..GetSpellInfo(26297).."|r") -- Berserking
-  print("|cff999999/use "..GetSpellInfo(113858).."|r") -- Dark Soul: Instability
+  print("|cff999999/use "..GetSpellInfo(14751).."|r") -- Inner Focus
+  print("|cff999999/use 10|r")
+  print("|cff999999/use 13|r")
   print("|cff999999/q|r")
-  print("|cff999999/use "..GetSpellInfo(116858).."|r") -- Chaos Bolt
+  print("|cff999999/use "..GetSpellInfo(58381).."|r") -- Mind Flay
 end
 
 local function timerDone()
