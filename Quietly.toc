@@ -1,7 +1,7 @@
-## Interface: 30402
+## Interface: 30403
 ## Title: Quietly
 ## Author: bencvt
-## Version: 1.0.1
+## Version: 1.0.2
 ## Notes: Add shorthand command /q to suppress error messages and sounds in macros.
 ## DefaultState: Enabled
 
